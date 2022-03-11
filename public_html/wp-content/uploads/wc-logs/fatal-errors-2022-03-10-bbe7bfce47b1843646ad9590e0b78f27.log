@@ -1,0 +1,181 @@
+2022-03-10T07:54:37+00:00 CRITICAL syntax error, unexpected '}' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 40
+
+2022-03-10T07:54:39+00:00 CRITICAL syntax error, unexpected '}' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 40
+
+2022-03-10T08:31:55+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:31:58+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:32:11+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:32:22+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:32:23+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:32:34+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:32:36+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 62
+
+2022-03-10T08:49:37+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 63
+
+2022-03-10T08:49:39+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 63
+
+2022-03-10T08:49:41+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 63
+
+2022-03-10T11:51:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:71
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(83): product_validation('', '')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 71
+
+2022-03-10T11:51:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:71
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(83): product_validation('', '')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 71
+
+2022-03-10T12:17:39+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:81
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(105): product_validation('', '435')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 81
+
+2022-03-10T12:17:56+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:85
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(105): product_validation('\xD0\xB2\xD0\xB0\xD0\xBF', '')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 85
+
+2022-03-10T12:29:02+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 141
+
+2022-03-10T12:36:03+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T12:36:05+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T12:36:47+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T13:16:03+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(112): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:16:06+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(112): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:16:18+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(112): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:16:20+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(112): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:16:24+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(112): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:18:10+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(114): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:18:28+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(114): product_validation('ewr', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:18:42+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:86
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(114): product_validation('ewr3', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 86
+
+2022-03-10T13:19:08+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:94
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(114): product_validation('ewr3', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 94
+
+2022-03-10T13:19:17+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:94
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(114): product_validation('ewr3234', '23')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 94
+
+2022-03-10T13:20:39+00:00 CRITICAL Uncaught Error: Call to undefined function post_exists() in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php:90
+Stack trace:
+#0 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php(110): product_validation('2ew', '2')
+#1 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-includes/template-loader.php(106): include('/var/www/crafts...')
+#2 /var/www/craftsites/data/www/111.m2b2.ru/html/wp-blog-header.php(19): require_once('/var/www/crafts...')
+#3 /var/www/craftsites/data/www/111.m2b2.ru/html/index.php(17): require('/var/www/crafts...')
+#4 {main}
+  thrown in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 90
+
+2022-03-10T13:27:50+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 11
+
+2022-03-10T13:27:51+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 11
+
+2022-03-10T13:28:03+00:00 CRITICAL syntax error, unexpected ')' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 11
+
+2022-03-10T13:59:41+00:00 CRITICAL syntax error, unexpected ')', expecting ';' or ',' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T13:59:43+00:00 CRITICAL syntax error, unexpected ')', expecting ';' or ',' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T13:59:55+00:00 CRITICAL syntax error, unexpected ')', expecting ';' or ',' in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 10
+
+2022-03-10T14:07:43+00:00 CRITICAL syntax error, unexpected ''http://'' (T_CONSTANT_ENCAPSED_STRING) in /var/www/craftsites/data/www/111.m2b2.ru/html/wp-content/themes/storefront-child/page-create-product.php on line 13
+
